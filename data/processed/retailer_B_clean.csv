@@ -1,0 +1,11 @@
+product_id,product_name,brand,category,size,clean_name,clean_brand,clean_category,clean_size,standard_size
+B001,Coca-Cola Classic 1000 ml,Coca-Cola,Soft Drinks,1000ml,coca cola classic 1000 ml,coca-cola,soft drinks,1000ml,1000.0
+B002,Pepsi Cola 1 Litre,Pepsi,Soft Drinks,1L,pepsi cola 1 litre,pepsi,soft drinks,1l,1000.0
+B003,Dove Hair Shampoo 650 ML,Dove,Shampoo,650ML,dove hair shampoo 650 ml,dove,shampoo,650ml,650.0
+B004,Pantene Hair Shampoo 650 ML,Pantene,Shampoo,650ML,pantene hair shampoo 650 ml,pantene,shampoo,650ml,650.0
+B005,Apple iPhone 15 128 GB,Apple,Smartphones,128GB,apple iphone 15 128 gb,apple,smartphones,128gb,128.0
+B006,Samsung Galaxy S24 256 GB,Samsung,Smartphones,256GB,samsung galaxy s24 256 gb,samsung,smartphones,256gb,256.0
+B007,Nike Airmax 270,Nike,Footwear,US9,nike airmax 270,nike,footwear,us9,us9
+B008,Maggi Noodles 70 G,Maggi,Food,70G,maggi noodles 70 g,maggi,food,70g,70.0
+B009,Oreo Original 120g,Oreo,Food,120g,oreo original 120g,oreo,food,120g,120.0
+B010,Nivea Body Lotion 400 ML,Nivea,Personal Care,400ML,nivea body lotion 400 ml,nivea,personal care,400ml,400.0

@@ -1,0 +1,101 @@
+retailer_a_id,retailer_a_name,retailer_b_id,retailer_b_name,brand_score,category_score,size_score,name_similarity,total_score,decision,true_match,predicted_match
+A008,Maggi Noodles 70g,B008,Maggi Noodles 70 G,25,20,20,97.14,99.0,Auto Match,1,1
+A007,Nike Air Max 270,B007,Nike Airmax 270,25,20,20,96.77,98.87,Auto Match,1,1
+A006,Samsung Galaxy S24 256GB,B006,Samsung Galaxy S24 256 GB,25,20,20,89.8,96.43,Auto Match,1,1
+A010,Nivea Body Lotion 400ml,B010,Nivea Body Lotion 400 ML,25,20,20,89.36,96.28,Auto Match,1,1
+A005,Apple iPhone 15 128GB,B005,Apple iPhone 15 128 GB,25,20,20,88.37,95.93,Auto Match,1,1
+A004,Pantene Shampoo 650ml,B004,Pantene Hair Shampoo 650 ML,25,20,20,87.5,95.62,Auto Match,1,1
+A009,Oreo Original Biscuits 120g,B009,Oreo Original 120g,25,20,20,80.0,93.0,Auto Match,1,1
+A002,Pepsi Cola 1L,B002,Pepsi Cola 1 Litre,25,20,20,77.42,92.1,Auto Match,1,1
+A003,Dove Shampoo 650ml,B003,Dove Hair Shampoo 650 ML,25,20,20,76.19,91.67,Auto Match,1,1
+A001,Coca Cola Classic 1L,B001,Coca-Cola Classic 1000 ml,0,20,20,84.44,69.56,Human Review,1,0
+A003,Dove Shampoo 650ml,B004,Pantene Hair Shampoo 650 ML,0,20,20,66.67,63.33,Human Review,0,0
+A004,Pantene Shampoo 650ml,B003,Dove Hair Shampoo 650 ML,0,20,20,57.78,60.22,Human Review,0,0
+A002,Pepsi Cola 1L,B001,Coca-Cola Classic 1000 ml,0,20,20,42.11,54.74,Reject,0,0
+A001,Coca Cola Classic 1L,B002,Pepsi Cola 1 Litre,0,20,20,36.84,52.89,Reject,0,0
+A008,Maggi Noodles 70g,B009,Oreo Original 120g,0,20,0,40.0,34.0,Reject,0,0
+A009,Oreo Original Biscuits 120g,B008,Maggi Noodles 70 G,0,20,0,35.56,32.44,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B005,Apple iPhone 15 128 GB,0,20,0,34.78,32.17,Reject,0,0
+A005,Apple iPhone 15 128GB,B006,Samsung Galaxy S24 256 GB,0,20,0,30.43,30.65,Reject,0,0
+A007,Nike Air Max 270,B008,Maggi Noodles 70 G,0,0,0,52.94,18.53,Reject,0,0
+A008,Maggi Noodles 70g,B007,Nike Airmax 270,0,0,0,50.0,17.5,Reject,0,0
+A007,Nike Air Max 270,B004,Pantene Hair Shampoo 650 ML,0,0,0,46.51,16.28,Reject,0,0
+A007,Nike Air Max 270,B010,Nivea Body Lotion 400 ML,0,0,0,45.0,15.75,Reject,0,0
+A009,Oreo Original Biscuits 120g,B001,Coca-Cola Classic 1000 ml,0,0,0,42.31,14.81,Reject,0,0
+A005,Apple iPhone 15 128GB,B002,Pepsi Cola 1 Litre,0,0,0,41.03,14.36,Reject,0,0
+A005,Apple iPhone 15 128GB,B009,Oreo Original 120g,0,0,0,41.03,14.36,Reject,0,0
+A007,Nike Air Max 270,B003,Dove Hair Shampoo 650 ML,0,0,0,40.0,14.0,Reject,0,0
+A009,Oreo Original Biscuits 120g,B002,Pepsi Cola 1 Litre,0,0,0,40.0,14.0,Reject,0,0
+A010,Nivea Body Lotion 400ml,B009,Oreo Original 120g,0,0,0,39.02,13.66,Reject,0,0
+A008,Maggi Noodles 70g,B001,Coca-Cola Classic 1000 ml,0,0,0,38.1,13.33,Reject,0,0
+A001,Coca Cola Classic 1L,B008,Maggi Noodles 70 G,0,0,0,36.84,12.89,Reject,0,0
+A010,Nivea Body Lotion 400ml,B007,Nike Airmax 270,0,0,0,36.84,12.89,Reject,0,0
+A007,Nike Air Max 270,B005,Apple iPhone 15 128 GB,0,0,0,36.84,12.89,Reject,0,0
+A009,Oreo Original Biscuits 120g,B005,Apple iPhone 15 128 GB,0,0,0,36.73,12.86,Reject,0,0
+A008,Maggi Noodles 70g,B004,Pantene Hair Shampoo 650 ML,0,0,0,36.36,12.73,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B007,Nike Airmax 270,0,0,0,35.9,12.56,Reject,0,0
+A010,Nivea Body Lotion 400ml,B005,Apple iPhone 15 128 GB,0,0,0,35.56,12.44,Reject,0,0
+A007,Nike Air Max 270,B002,Pepsi Cola 1 Litre,0,0,0,35.29,12.35,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B004,Pantene Hair Shampoo 650 ML,0,0,0,35.29,12.35,Reject,0,0
+A009,Oreo Original Biscuits 120g,B010,Nivea Body Lotion 400 ML,0,0,0,35.29,12.35,Reject,0,0
+A007,Nike Air Max 270,B009,Oreo Original 120g,0,0,0,35.29,12.35,Reject,0,0
+A002,Pepsi Cola 1L,B005,Apple iPhone 15 128 GB,0,0,0,34.29,12.0,Reject,0,0
+A008,Maggi Noodles 70g,B002,Pepsi Cola 1 Litre,0,0,0,34.29,12.0,Reject,0,0
+A007,Nike Air Max 270,B001,Coca-Cola Classic 1000 ml,0,0,0,34.15,11.95,Reject,0,0
+A007,Nike Air Max 270,B006,Samsung Galaxy S24 256 GB,0,0,0,34.15,11.95,Reject,0,0
+A008,Maggi Noodles 70g,B010,Nivea Body Lotion 400 ML,0,0,0,34.15,11.95,Reject,0,0
+A008,Maggi Noodles 70g,B003,Dove Hair Shampoo 650 ML,0,0,0,34.15,11.95,Reject,0,0
+A010,Nivea Body Lotion 400ml,B008,Maggi Noodles 70 G,0,0,0,34.15,11.95,Reject,0,0
+A010,Nivea Body Lotion 400ml,B002,Pepsi Cola 1 Litre,0,0,0,34.15,11.95,Reject,0,0
+A005,Apple iPhone 15 128GB,B007,Nike Airmax 270,0,0,0,33.33,11.67,Reject,0,0
+A005,Apple iPhone 15 128GB,B004,Pantene Hair Shampoo 650 ML,0,0,0,33.33,11.67,Reject,0,0
+A009,Oreo Original Biscuits 120g,B007,Nike Airmax 270,0,0,0,33.33,11.67,Reject,0,0
+A010,Nivea Body Lotion 400ml,B001,Coca-Cola Classic 1000 ml,0,0,0,33.33,11.67,Reject,0,0
+A003,Dove Shampoo 650ml,B008,Maggi Noodles 70 G,0,0,0,33.33,11.67,Reject,0,0
+A003,Dove Shampoo 650ml,B009,Oreo Original 120g,0,0,0,33.33,11.67,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B003,Dove Hair Shampoo 650 ML,0,0,0,33.33,11.67,Reject,0,0
+A003,Dove Shampoo 650ml,B010,Nivea Body Lotion 400 ML,0,0,0,33.33,11.67,Reject,0,0
+A003,Dove Shampoo 650ml,B001,Coca-Cola Classic 1000 ml,0,0,0,32.56,11.4,Reject,0,0
+A003,Dove Shampoo 650ml,B006,Samsung Galaxy S24 256 GB,0,0,0,32.56,11.4,Reject,0,0
+A004,Pantene Shampoo 650ml,B005,Apple iPhone 15 128 GB,0,0,0,32.56,11.4,Reject,0,0
+A002,Pepsi Cola 1L,B008,Maggi Noodles 70 G,0,0,0,32.26,11.29,Reject,0,0
+A002,Pepsi Cola 1L,B009,Oreo Original 120g,0,0,0,32.26,11.29,Reject,0,0
+A010,Nivea Body Lotion 400ml,B004,Pantene Hair Shampoo 650 ML,0,0,0,32.0,11.2,Reject,0,0
+A001,Coca Cola Classic 1L,B010,Nivea Body Lotion 400 ML,0,0,0,31.82,11.14,Reject,0,0
+A001,Coca Cola Classic 1L,B009,Oreo Original 120g,0,0,0,31.58,11.05,Reject,0,0
+A004,Pantene Shampoo 650ml,B010,Nivea Body Lotion 400 ML,0,0,0,31.11,10.89,Reject,0,0
+A005,Apple iPhone 15 128GB,B003,Dove Hair Shampoo 650 ML,0,0,0,31.11,10.89,Reject,0,0
+A005,Apple iPhone 15 128GB,B010,Nivea Body Lotion 400 ML,0,0,0,31.11,10.89,Reject,0,0
+A004,Pantene Shampoo 650ml,B002,Pepsi Cola 1 Litre,0,0,0,30.77,10.77,Reject,0,0
+A004,Pantene Shampoo 650ml,B008,Maggi Noodles 70 G,0,0,0,30.77,10.77,Reject,0,0
+A008,Maggi Noodles 70g,B005,Apple iPhone 15 128 GB,0,0,0,30.77,10.77,Reject,0,0
+A005,Apple iPhone 15 128GB,B008,Maggi Noodles 70 G,0,0,0,30.77,10.77,Reject,0,0
+A004,Pantene Shampoo 650ml,B001,Coca-Cola Classic 1000 ml,0,0,0,30.43,10.65,Reject,0,0
+A004,Pantene Shampoo 650ml,B006,Samsung Galaxy S24 256 GB,0,0,0,30.43,10.65,Reject,0,0
+A003,Dove Shampoo 650ml,B005,Apple iPhone 15 128 GB,0,0,0,30.0,10.5,Reject,0,0
+A002,Pepsi Cola 1L,B004,Pantene Hair Shampoo 650 ML,0,0,0,30.0,10.5,Reject,0,0
+A010,Nivea Body Lotion 400ml,B003,Dove Hair Shampoo 650 ML,0,0,0,29.79,10.43,Reject,0,0
+A001,Coca Cola Classic 1L,B004,Pantene Hair Shampoo 650 ML,0,0,0,29.79,10.43,Reject,0,0
+A001,Coca Cola Classic 1L,B007,Nike Airmax 270,0,0,0,28.57,10.0,Reject,0,0
+A002,Pepsi Cola 1L,B007,Nike Airmax 270,0,0,0,28.57,10.0,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B001,Coca-Cola Classic 1000 ml,0,0,0,28.57,10.0,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B009,Oreo Original 120g,0,0,0,28.57,10.0,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B002,Pepsi Cola 1 Litre,0,0,0,28.57,10.0,Reject,0,0
+A001,Coca Cola Classic 1L,B005,Apple iPhone 15 128 GB,0,0,0,28.57,10.0,Reject,0,0
+A003,Dove Shampoo 650ml,B002,Pepsi Cola 1 Litre,0,0,0,27.78,9.72,Reject,0,0
+A004,Pantene Shampoo 650ml,B007,Nike Airmax 270,0,0,0,27.78,9.72,Reject,0,0
+A009,Oreo Original Biscuits 120g,B003,Dove Hair Shampoo 650 ML,0,0,0,27.45,9.61,Reject,0,0
+A001,Coca Cola Classic 1L,B003,Dove Hair Shampoo 650 ML,0,0,0,27.27,9.55,Reject,0,0
+A002,Pepsi Cola 1L,B010,Nivea Body Lotion 400 ML,0,0,0,27.03,9.46,Reject,0,0
+A002,Pepsi Cola 1L,B003,Dove Hair Shampoo 650 ML,0,0,0,27.03,9.46,Reject,0,0
+A009,Oreo Original Biscuits 120g,B006,Samsung Galaxy S24 256 GB,0,0,0,26.92,9.42,Reject,0,0
+A001,Coca Cola Classic 1L,B006,Samsung Galaxy S24 256 GB,0,0,0,26.67,9.33,Reject,0,0
+A002,Pepsi Cola 1L,B006,Samsung Galaxy S24 256 GB,0,0,0,26.32,9.21,Reject,0,0
+A005,Apple iPhone 15 128GB,B001,Coca-Cola Classic 1000 ml,0,0,0,26.09,9.13,Reject,0,0
+A009,Oreo Original Biscuits 120g,B004,Pantene Hair Shampoo 650 ML,0,0,0,25.93,9.07,Reject,0,0
+A004,Pantene Shampoo 650ml,B009,Oreo Original 120g,0,0,0,25.64,8.97,Reject,0,0
+A010,Nivea Body Lotion 400ml,B006,Samsung Galaxy S24 256 GB,0,0,0,25.0,8.75,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B010,Nivea Body Lotion 400 ML,0,0,0,25.0,8.75,Reject,0,0
+A003,Dove Shampoo 650ml,B007,Nike Airmax 270,0,0,0,24.24,8.48,Reject,0,0
+A006,Samsung Galaxy S24 256GB,B008,Maggi Noodles 70 G,0,0,0,23.81,8.33,Reject,0,0
+A008,Maggi Noodles 70g,B006,Samsung Galaxy S24 256 GB,0,0,0,23.81,8.33,Reject,0,0
